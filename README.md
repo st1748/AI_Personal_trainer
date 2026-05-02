@@ -1,17 +1,17 @@
-# AI Personal Trainer 💪
+# AI Personal Trainer
 
 AI 기반으로 개인 맞춤 운동 루틴과 식단을 추천해주는 웹 애플리케이션입니다.  
 사용자의 신체 정보와 목표를 입력하면, GPT를 활용하여 최적화된 운동 계획과 식단을 생성합니다.
 
 ---
 
-## 📌 Features
+## Features
 
-- 👤 사용자 정보 입력 (체중, 목표, 운동 수준 등)
-- 🏋️ 맞춤형 운동 루틴 자동 생성
-- 🥗 개인 맞춤 식단 추천
-- 📅 운동 기록 저장 및 관리
-- 🔄 이전 운동 기록을 기반으로 루틴 개선
+- 사용자 정보 입력 (체중, 목표, 운동 수준 등)
+- 맞춤형 운동 루틴 자동 생성
+- 개인 맞춤 식단 추천
+- 운동 기록 저장 및 관리
+- 이전 운동 기록을 기반으로 루틴 개선
 
 ---
 
@@ -24,7 +24,7 @@ AI 기반으로 개인 맞춤 운동 루틴과 식단을 추천해주는 웹 애
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. 저장소 클론
 git clone https://github.com/st1748/AI_Personal_trainer.git  
@@ -51,7 +51,7 @@ streamlit run HCIprojectrevised.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 AI_Personal_trainer/  
 ├── HCIprojectrevised.py        (메인 애플리케이션)  
@@ -64,7 +64,7 @@ AI_Personal_trainer/
 
 ---
 
-## ⚠️ Important Notes
+## Important Notes
 
 - `.streamlit/secrets.toml` 파일은 GitHub에 업로드되지 않습니다.  
 - API 키는 개인별로 발급받아 사용해야 합니다.  
@@ -73,6 +73,6 @@ AI_Personal_trainer/
 ---
 
 
-## ✨ Author
+## Author
 
 - https://github.com/st1748
