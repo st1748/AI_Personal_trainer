@@ -1,0 +1,10 @@
+{
+  "name": "\uc774\uc131\ud0c1",
+  "age": 25,
+  "gender": "male",
+  "weight": 65,
+  "body_fat": 25,
+  "muscle_mass": 23,
+  "goal": "gain muscle",
+  "date_created": "2026-05-02"
+}

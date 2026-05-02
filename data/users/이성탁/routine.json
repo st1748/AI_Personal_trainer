@@ -1,0 +1,106 @@
+{
+  "Monday": [
+    {
+      "exercise": "Bench Press",
+      "weight": 40,
+      "reps": 8,
+      "sets": 3
+    },
+    {
+      "exercise": "Squat",
+      "weight": 50,
+      "reps": 8,
+      "sets": 3
+    },
+    {
+      "exercise": "Dumbbell Row",
+      "weight": 15,
+      "reps": 10,
+      "sets": 3
+    }
+  ],
+  "Tuesday": [
+    {
+      "exercise": "Pull-ups",
+      "weight": 0,
+      "reps": 8,
+      "sets": 3
+    },
+    {
+      "exercise": "Deadlift",
+      "weight": 60,
+      "reps": 6,
+      "sets": 3
+    },
+    {
+      "exercise": "Leg Press",
+      "weight": 70,
+      "reps": 10,
+      "sets": 3
+    }
+  ],
+  "Wednesday": [
+    {
+      "exercise": "Rest",
+      "weight": 0,
+      "reps": 0,
+      "sets": 0
+    }
+  ],
+  "Thursday": [
+    {
+      "exercise": "Overhead Press",
+      "weight": 20,
+      "reps": 8,
+      "sets": 3
+    },
+    {
+      "exercise": "Barbell Curl",
+      "weight": 15,
+      "reps": 10,
+      "sets": 3
+    },
+    {
+      "exercise": "Tricep Dip",
+      "weight": 0,
+      "reps": 10,
+      "sets": 3
+    }
+  ],
+  "Friday": [
+    {
+      "exercise": "Lunges",
+      "weight": 20,
+      "reps": 10,
+      "sets": 3
+    },
+    {
+      "exercise": "Lat Pulldown",
+      "weight": 35,
+      "reps": 10,
+      "sets": 3
+    },
+    {
+      "exercise": "Calf Raises",
+      "weight": 40,
+      "reps": 12,
+      "sets": 4
+    }
+  ],
+  "Saturday": [
+    {
+      "exercise": "Rest",
+      "weight": 0,
+      "reps": 0,
+      "sets": 0
+    }
+  ],
+  "Sunday": [
+    {
+      "exercise": "Rest",
+      "weight": 0,
+      "reps": 0,
+      "sets": 0
+    }
+  ]
+}
